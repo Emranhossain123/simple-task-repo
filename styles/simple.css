@@ -1,0 +1,27 @@
+/* section*/
+
+
+.top {
+    background-image: url('../images/banner/banner2.png');
+    width: 1500px;
+    height: 709px;
+    text-align: right;
+    padding: 50px 100px;
+    background-repeat: no-repeat;
+
+}
+
+.section-head {
+    font-family: 'Work Sans', sans-serif;
+    text-align: right;
+    padding: 100px 520px;
+    margin: 80px 100px 180px 180px;
+    /* margin: 80px 100px; */
+
+
+}
+
+.section-description {
+    /* padding: 100px 520px; */
+    /* margin: 80px 100px 180px 180px; */
+}
